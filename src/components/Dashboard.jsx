@@ -202,7 +202,7 @@ const Dashboard = () => {
       growthPercentage: 190,
       awards: ["Annie Award Nomination", "14 Minutes Standing Ovation at Cannes"],
       rating: 4.3,
-      mariNote: "A masterful exploration of how digital spaces can foster genuine human connection and healing."
+      mariNote: "A masterful exploration of how digital spaces can foster genuine human connection and self-discovery."
     }
   ];
 
