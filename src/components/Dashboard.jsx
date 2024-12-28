@@ -221,7 +221,7 @@ const Dashboard = () => {
               Analyst: Mariana Rocío Linares Olivera
             </p>
             <p className="text-sm" style={{ color: colors.pink }}>
-              Fuentes: Box Office Mojo, The Numbers, Japanese Box Office Database (2024)
+              Source: Box Office Mojo, The Numbers, Japanese Box Office Database (2024)
             </p>
           </div>
         </header>
